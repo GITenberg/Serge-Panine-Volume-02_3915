@@ -1,5 +1,5 @@
 _repo: Serge-Panine-Volume-02_3915
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Paris (France) -- Fiction'
 - !lcsh 'French fiction -- Translations into English'
 - !lcc 'PQ'
+- GITenberg
 title: Serge Panine — Volume 02
 url: http://www.gutenberg.org/ebooks/3915
